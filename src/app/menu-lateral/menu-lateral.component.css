@@ -1,0 +1,29 @@
+*{
+ padding: 0;
+ margin: 0;
+}
+
+.menuLateral{
+    position: fixed;
+    height: 100%;
+    top:52px;
+    left: 0px;
+    background-color: rgb(7, 103, 167);
+    width: 200px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.menuLateral ul li{
+    padding-left: 20px;
+    padding-top: 35px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.menuLateral hr{
+    color: rgb(248, 3, 3);
+}

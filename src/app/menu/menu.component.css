@@ -1,0 +1,33 @@
+.menu-superior{
+  background-color: rgb(7, 103, 167);
+  position: fixed;
+  width: 100%;
+  height: 52px;
+  left: 0px;
+  top: 0px;
+}
+.Nome{
+  margin-top: 13px;
+  padding-left: 20px;
+  color:honeydew;
+  font-size: 18px;
+}
+
+.telefone{
+  position: absolute;
+  color:white;
+  top: 3px;
+  padding-left: 1020px;
+}
+
+.logo{
+  position: absolute;
+  right: 140px;
+  width: 30px;
+  height: 18px;
+  top: 20px;
+}
+
+a {
+  text-decoration: none;
+}

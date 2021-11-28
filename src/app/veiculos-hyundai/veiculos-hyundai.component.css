@@ -1,0 +1,43 @@
+img{
+  padding-top:120px;
+  width: 250px;
+  height: 180px;
+  padding-left: 189px;
+}
+
+th{
+padding-left: 200px;
+}
+
+.breadcrumb{
+  position: absolute;
+  top: 50px;
+  left: 147px;
+  border-radius: 10%;
+}
+
+.breadcrumb ul li{
+  display: inline-block;
+  margin-left: 30px;
+  margin-top: 0;
+}
+
+.breadcrumb h1{
+  font-size: 12pt;
+}
+
+.breadcrumb a{
+  color:black;
+  text-decoration: none;
+}
+
+.breadcrumb p{
+  font-size: 12pt;
+  color:rgb(109, 109, 105);
+}
+
+#hyundai{
+  position:absolute;
+  left:123px;
+  bottom:10px;
+}
